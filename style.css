@@ -1,0 +1,48 @@
+/* stylesheet do body */
+body {
+    background: fixed #3a163f;
+    color: #fff;
+    font-family: "Bai Jamjuree", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+}
+/*****************/
+
+/* stylehseet do main */
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+/*****************/
+
+/* stylesheet dos botoes */
+
+button {
+    background-color: #52633d;
+    color: #fff;
+    margin-bottom: 2rem;
+    font-family: "Bai Jamjuree", Arial, sans-serif;
+}
+/*****************/
+
+/* stylesheet */
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+/*****************/
+
+/* stylesheet da imagem */
+
+img {
+    max-width: 100%;
+}
+/*****************/
